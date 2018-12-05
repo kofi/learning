@@ -11,6 +11,16 @@ torch/data/cifar-10-batches-py/data_batch_4
 
 *.html
 
+*.jpg
+
+*gitignore*
+
+*.h5
+
+*.pyc
+
+movieposter/groundtruth
+
 torch/data/cifar-10-batches-py/data_batch_1
 
 torch/data/cifar-10-batches-py/data_batch_3
